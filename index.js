@@ -1,4 +1,3 @@
-import _ from "lodash";
+import half from "./scr/index.js";
 
-console.log("Hello, Hexlet!");
-console.log(_.last(["one", "two"]));
+half();
