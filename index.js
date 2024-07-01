@@ -1,3 +1,3 @@
-import half from "./scr/index.js";
+import half from "./src/index.js";
 
 half();
